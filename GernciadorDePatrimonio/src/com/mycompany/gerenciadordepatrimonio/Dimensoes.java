@@ -1,6 +1,6 @@
 package com.mycompany.gerenciadordepatrimonio;
 
-public abstract class Dimensoes {
+public class Dimensoes {
     private double altura;
     private double largura;
     private double comprimento;

@@ -16,5 +16,6 @@ public class Mesa extends Movel{
 
     public FormatoDaMesa getFormato(){
         return this.formato;
+
     }
 }
