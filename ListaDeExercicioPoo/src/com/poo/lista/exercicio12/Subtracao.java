@@ -1,4 +1,4 @@
-package com.poo.lista.exercicio11.dominio;
+package com.poo.lista.exercicio12;
 
 public class Subtracao implements OperacaoBasica{
 
