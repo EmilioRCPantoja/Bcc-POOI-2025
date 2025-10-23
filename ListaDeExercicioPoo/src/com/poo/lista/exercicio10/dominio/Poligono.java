@@ -1,6 +1,6 @@
 package com.poo.lista.exercicio10.dominio;
 
-public class Poligono implements AreaCalculavel{
+public abstract class Poligono implements AreaCalculavel{
     private double base;
     private double altura;
 
